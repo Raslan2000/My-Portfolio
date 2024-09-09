@@ -1,4 +1,4 @@
-| [home page]() | [visualizing debt]() | [critique by design]() | [final project I]() | [final project II]() | [final project III]() |
+| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](‎visualizing-government-debt) | [critique by design]() | [final project I]() | [final project II]() | [final project III]() |
 
 
 # Portfolio
@@ -14,7 +14,7 @@ In this course, I hope to learn more about creating interesting and meaningful v
 This here is to show my future work here. The links here will be filled in the future with the appropriate work
 
 
-## Visualization 1: [Yet to be named]()
+## Visualization 1: [Visualizing overnment Debt](‎visualizing-government-debt)
 Coming Soon! 
 
 ## Assignment 3&4: [Yet to be named]()
