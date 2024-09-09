@@ -8,6 +8,13 @@ _As before, this template provides some of the structure you should have for you
 ## Part one: Working with web-based visualization tools and data
 
 _Include your visualization, and introduce us to what you did._
+![OECD Bar Graph](OECD Bar graph.png)
+
+
+## Working with Tableau
+
+_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+
 <div class='tableauPlaceholder' id='viz1725891936822' style='position: relative'>
     <noscript>
         <a href='#'>
@@ -40,11 +47,6 @@ _Include your visualization, and introduce us to what you did._
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-
-## Working with Tableau
-
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
 ## Part three: create your own visualization
 
