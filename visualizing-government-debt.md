@@ -103,6 +103,8 @@ This type of graph is particularly valuable for economists and policymakers who 
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
   </script>
 
+
+
 In this research, we studied government debt as a proportion of GDP using OECD data and employed several visualization tools to emphasize different elements of fiscal health across nations from 1995 to 2019.
 
 #### Bar Chart Analysis
