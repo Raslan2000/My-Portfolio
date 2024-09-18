@@ -2,7 +2,7 @@
 # Critique by Design
 The purpose of this assignemnt was to chose a graph from makeovermonday and provide an in-depth critique about it based on Stephen Few's "Data Visualization Effectiveness Profile".  This helps me understand if the visualization is effective, provides all the information needed for the audience, shows scopes of improvement for the visualization. I document my thought process here, show my resketches here and show the feedback as well.
 ## Step one: the visualization
-![Google Trend graph](First Draft GenAI trend.png)
+![Google Trend graph](Google Trends GenAI.png)
 
 Here is the link to the visualization: https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng
 
