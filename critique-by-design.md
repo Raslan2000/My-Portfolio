@@ -2,38 +2,8 @@
 # Critique by Design
 The purpose of this assignemnt was to chose a graph from makeovermonday and provide an in-depth critique about it based on Stephen Few's "Data Visualization Effectiveness Profile".  This helps me understand if the visualization is effective, provides all the information needed for the audience, shows scopes of improvement for the visualization. I document my thought process here, show my resketches here and show the feedback as well.
 ## Step one: the visualization
+![Google Trend graph](First Draft GenAI trend.png)
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3826_RC01/embed_loader.js"></script>
-<script type="text/javascript">
-    trends.embed.renderExploreWidget(
-        "TIMESERIES", 
-        {
-            "comparisonItem": [
-                {
-                    "keyword": "Midjourney",
-                    "geo": "US",
-                    "time": "2022-01-01 2024-02-16"
-                },
-                {
-                    "keyword": "Stable Diffusion",
-                    "geo": "US",
-                    "time": "2022-01-01 2024-02-16"
-                },
-                {
-                    "keyword": "DALL E",
-                    "geo": "US",
-                    "time": "2022-01-01 2024-02-16"
-                }
-            ],
-            "category": 0,
-            "property": ""
-        }, 
-        {
-            "exploreQuery": "date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng",
-            "guestPath": "https://trends.google.com:443/trends/embed/"
-        }
-    );
-</script>
 Here is the link to the visualization: https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng
 I chose to critique the graph titled interest over time .
 The reason I chose this graph is because at first sight this seemed like a pretty neat chart, but upon pondering, the underlying faults became apparent. It seemed difficult to understand what was going on in this graph. To explore the reasons behind this, I chose to critique it.
