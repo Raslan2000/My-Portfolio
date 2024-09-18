@@ -1,4 +1,4 @@
-| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design]() | [final project I]() | [final project II]() | [final project III]() |
+| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I]() | [final project II]() | [final project III]() |
 
 
 # Portfolio
@@ -15,10 +15,10 @@ This here is to show my future work here. The links here will be filled in the f
 
 
 ## Visualization 1: [Visualizing overnment Debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt)
-Coming Soon! 
+Here I take you through a process of visualizing general government debt data in Tableau
 
-## Assignment 3&4: [Yet to be named]()
-Coming Soon!
+## Assignment 3&4: [Yet to be named](https://raslan2000.github.io/My-Portfolio/critique-by-design)
+Here I take you through my thought process of critiquing a visualization and showing my improved version of it 
 
 ## Final project
 Coming Soon! 
