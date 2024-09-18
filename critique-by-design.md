@@ -5,6 +5,7 @@ The purpose of this assignemnt was to chose a graph from makeovermonday and prov
 ![Google Trend graph](First Draft GenAI trend.png)
 
 Here is the link to the visualization: https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng
+
 I chose to critique the graph titled interest over time .
 The reason I chose this graph is because at first sight this seemed like a pretty neat chart, but upon pondering, the underlying faults became apparent. It seemed difficult to understand what was going on in this graph. To explore the reasons behind this, I chose to critique it.
 
