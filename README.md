@@ -22,6 +22,6 @@ Here I take you through my thought process of critiquing a visualization and sho
 
 ## Final project
 Coming Soon! 
-[Part I]()
+[Part I](https://raslan2000.github.io/My-Portfolio/final-project-part-one)
 [Part II]()
 [Part III]()
