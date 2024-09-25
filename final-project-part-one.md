@@ -6,17 +6,17 @@
 For this project, I chose to focus on **Sustainable Fashion** because fashion is a big part of our lives and culture, but many people are unaware of sustainable practices. I want to start by highlighting our current situation in fashion and its impacts on the environment, followed by the effects of sustainable fashion, and concluding this project with a call to action.
 
 1. **The Current Landscape**
-2. **Consumer Shift: Towards Sustainable Fashion**
-3. **Impact of Sustainable Practices**
+2. **Towards Sustainable Fashion**
+3. **Impact of Sustainable Fashion**
 4. **Conclusion and Call to Action**
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+[Rough Sketch 1](Rough Sketch 1.jpeg)
+[Rough Sketch 2](Rough Sketch 2.jpeg)
 
-Text here...
-
+From these rough skecthes I aim to tell my story of about how the fashion industry is harming the environment, how companies are reacting to it and in turn how is the general audience treating this.
 # The data
-
+From these datasets, I aim to create graphs that will show the adverse effect of the fashion industry on the environment, how the companies are acting on it and how does it affect consumer behaviour
 | Name                                                  | URL                                                                                                         | Description                                                                                                     |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Kaggle - Plastic-based Textiles in the Clothing Industry | [Link](https://www.kaggle.com/datasets/purohitgaurav/plastic-based-textiles-in-clothing-industry) | This Kaggle dataset examines the use of plastic-based textiles in the clothing industry, providing data on environmental impacts and trends related to synthetic materials. |
