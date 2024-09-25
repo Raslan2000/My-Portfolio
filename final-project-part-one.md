@@ -16,11 +16,12 @@ For this project, I chose to focus on **Sustainable Fashion** because fashion is
 Text here...
 
 # The data
-# The data
-| Name | URL | Description |
-|------|-----|-------------|
+
+| Name                                                  | URL                                                                                                         | Description                                                                                                     |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Kaggle - Plastic-based Textiles in the Clothing Industry | [Link](https://www.kaggle.com/datasets/purohitgaurav/plastic-based-textiles-in-clothing-industry) | This Kaggle dataset examines the use of plastic-based textiles in the clothing industry, providing data on environmental impacts and trends related to synthetic materials. |
-| Kaggle - Sustainable Fashion and Eco-Friendly Trends | [Link](https://www.kaggle.com/datasets/waqi786/sustainable-fashion-eco-friendly-trends) | This dataset focuses on eco-friendly trends in sustainable fashion, offering insights into the adoption of green practices in the fashion industry. |
+| Kaggle - Sustainable Fashion and Eco-Friendly Trends    | [Link](https://www.kaggle.com/datasets/waqi786/sustainable-fashion-eco-friendly-trends)                 | This dataset focuses on eco-friendly trends in sustainable fashion, offering insights into the adoption of green practices in the fashion industry.                        |
+
 
 
 
