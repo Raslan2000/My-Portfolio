@@ -11,8 +11,8 @@ For this project, I chose to focus on **Sustainable Fashion** because fashion is
 4. **Conclusion and Call to Action**
 
 ## Initial sketches
-[Rough Sketch 1](Rough Sketch 1.jpeg)
-[Rough Sketch 2](Rough Sketch 2.jpeg)
+![Rough Sketch 1](Rough Sketch 1.jpeg)
+![Rough Sketch 2](Rough Sketch 2.jpeg)
 
 From these rough skecthes I aim to tell my story of about how the fashion industry is harming the environment, how companies are reacting to it and in turn how is the general audience treating this.
 # The data
