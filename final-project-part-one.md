@@ -3,12 +3,13 @@
 
 
 # Outline
-For this project, I chose to focus on **Sustainable Fashion** because fashion is a big part of our lives and culture, but many people are unaware of sustainable practices. I want to start by highlighting our current situation in fashion and its impacts on the environment, followed by the effects of sustainable fashion, and concluding this project with a call to action.
+Fashion is not only about what we wear on a daily basis or about looking good. It is a medium to express our culture, values and ourselves. But with the rise of fashion, also rose the negative effects our environment, which is why I chose to do this project on **Sustainable Fashion**. 
+By showing how moving to sustainable fashion, I hope to convince individuals to adopt a more environmentally conscious fashion lifestyle and therefore, saving the environment in style. This is how I want present my story:
 
-1. **The Current Landscape**
-2. **Towards Sustainable Fashion**
-3. **Impact of Sustainable Fashion**
-4. **Conclusion and Call to Action**
+1. **The Current Landscape :** Here I plan to show the highlight our current situtation of fashion and it impact on the environment
+2. **Towards Sustainable Fashion :** In this we will explore how are companies tackling this and are they adopting the new sustainable practices
+3. **Impact of Sustainable Fashion :** From here we will see has this led to more awareness among consumers to adopt sustainable fashion? Does this have a reduced  negative impact on the environment?
+4. **Conclusion and Call to Action :** Based on the results, I will be provinding a recommendation based on sustainable fashion
 
 ## Initial sketches
 ![Rough Sketch 1](Rough Sketch 1.jpeg)
@@ -27,4 +28,4 @@ From these datasets, I aim to create graphs that will show the adverse effect of
 
 
 # Method and medium
-So for creating visualizations necessary for this story, I plan on using Tableau and for publishing the story on a page, I would use shorthand.
+To tell this story, I plan on using Tableau to create the visualization necessary for this. For publishing and presenting the visualizations, I aim to use shorthand. With the combination of these two, I hope to tell a very convincing yet interesting story about how we can save the environment through fashion.
