@@ -9,8 +9,7 @@ The story would is structured that such that:
 2. After the scene has been set, convincing proof is shown to fashion brands and companies to show that switching to sustainable fashion is actually beneficial for them. Hence, proposing a win-win deal.
 3. Finally, a  case study is shown about a behemoth company who takes up it as a responsibility to be sustainable and still does well as a business, therefore banging the hammer on the nail and building a strong foundation that “even while running a business, you can be successful”
 
-Then Finally, based on this I will propose a call to action and conclude the story.
-Here is a preview of my story: https://preview.shorthand.com/N9WCBe9a7RNGgwsm
+Then Finally, based on this I will propose a call to action and conclude the story. [Here is a preview of my story](https://preview.shorthand.com/N9WCBe9a7RNGgwsm).
 
 # User research 
 
