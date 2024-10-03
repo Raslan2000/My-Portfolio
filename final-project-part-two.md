@@ -1,9 +1,11 @@
 
 | [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I](https://raslan2000.github.io/My-Portfolio/final-project-part-one) | [final project II](https://raslan2000.github.io/My-Portfolio/final-project-part-two) | [final project III]() |
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+business leaders, policy makers within the fashion industry, Fashion Brand Executives and fashion designers to switch to sustainable choices of clothing .
 
-Text here!
+
+
+I will accomplish this by showing a series of visualizations which will serve as evidence as to "How is the fashion industry killing the environment" and "How Sustainable Fashion can still help be in the market?". These visualizations have been made using data sourced from Kaggle and Statista, where the primary means for the collection of the data is through surveys, SEC Fillings, their own market insights..etc
 
 # User research 
 
