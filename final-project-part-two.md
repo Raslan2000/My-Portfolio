@@ -47,6 +47,5 @@ The point of taking this interview is to make sure the audience can understand w
 | Insufficient Information | Add more information regarding KPIs and other details so that it caters more to the intended audience |
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+I am planning to follow this moodboard to further emphasize the idea of this project.
+![Mood Board](Mood.png)
