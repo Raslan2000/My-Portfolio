@@ -22,9 +22,9 @@ The point of taking this interview is to make sure the audience can understand w
 
 | Goal | Questions to Ask |
 | --- | --- |
-| To make sure the right message is conveyed | **What can you understand from the graph?** |
-| To make sure the graph can be easily understood | **How easily can you understand the graph?** |
-| Evaluate appropriateness for the target audience | **Do you think this is right for the intended audience?** |
+| To make sure the right message is conveyed | **What can you understand from the visualizations?** |
+| To make sure the graph can be easily understood | **How easily can you understand the visualizations?** |
+| Evaluate appropriateness for the target audience | **Who do you think is the intended audience? Do you think this is right for intended audience?** |
 | Identify potential improvements or modifications | **Is there anything you would change or do differently?** |
 
 ## Interview findings
@@ -32,11 +32,12 @@ The point of taking this interview is to make sure the audience can understand w
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| **Questions**                                                                 | **Interview 1 (briefly describe)**                                                                                                                                   | **Interview 2**                                                                                                                                                                                                                  | **Interview 3**                                                                                                                    |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **What can you understand from all the visualizations?**                      | I can understand that the fashion businesses have contributed towards the destruction of environment at a large scale and that adopting a more sustainable approach can be profitable to the environment, the users of the brand as well as the company.                   | I can understand the importance of sustainable fashion. I can understand the shift towards sustainable fashion over the years and how it affects the companies and their revenue.                                                                                           | Overall, all the visualizations give a very apt understanding of how moving to sustainable materials for fashion may or may not affect companies.                       |
+| **How easily can you understand the visualizations?**                         | The graphs displayed are very easy to comprehend and deliver the intended impact.                                                                                                                           | The visualizations are easy to understand. The color theme is consistent throughout as well.                                                                                                                                                                           | Very easily                                                                                                                        |
+| **Who do you think is the intended audience? Do you think this is right for intended audience?** | Assuming that the audience consists of all the leading clothing/accessories companies, the data displayed caters well to them.                                                                               | The data seems to be increasing awareness about sustainable fashion to the general public or maybe people who are interested in fashion.                                                                                                                             | Economists, people working in fashion, political majors.                                                                           |
+| **Is there anything you would change or do differently?**                     | I would suggest including the data from smaller companies too, giving a broader perspective on adoption of sustainable approaches.                                                                           | I would suggest to have the visualization insights after displaying the plots. Some KPIs could have a better color layout such as dark colors. The bubble graph has some unknown labels which makes it difficult to understand and so I would not consider bubble graph. I would make the title of the dashboard bigger in font compared to title of each visualization. | No                                                                                                                                |
 
 
 # Identified changes for Part III
