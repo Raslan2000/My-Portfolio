@@ -1,4 +1,4 @@
-| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I](https://raslan2000.github.io/My-Portfolio/final-project-part-one) | [final project II]() | [final project III]() |
+| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I](https://raslan2000.github.io/My-Portfolio/final-project-part-one) | [final project II](https://raslan2000.github.io/My-Portfolio/final-project-part-two) | [final project III](https://raslan2000.github.io/My-Portfolio/final-project-part-three)) |
 
 
 
