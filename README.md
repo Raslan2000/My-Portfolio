@@ -1,4 +1,4 @@
-| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I](https://raslan2000.github.io/My-Portfolio/final-project-part-one) | [final project II]() | [final project III]() |
+| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I](https://raslan2000.github.io/My-Portfolio/final-project-part-one) | [final project II](https://raslan2000.github.io/My-Portfolio/final-project-part-two) | [final project III](https://raslan2000.github.io/My-Portfolio/final-project-part-three) |
 
 
 # Portfolio
@@ -21,7 +21,7 @@ Here I take you through a process of visualizing general government debt data in
 Here I take you through my thought process of critiquing a visualization and showing my improved version of it 
 
 ## Final project
-Coming Soon! 
+For the Final Project, I chose to do a story on Sustainable Fashion with the aim of convincing business leaders and influential people within the fashion industry to move towards sustainability.
 [Part I](https://raslan2000.github.io/My-Portfolio/final-project-part-one)
-[Part II]()
-[Part III]()
+[Part II](https://raslan2000.github.io/My-Portfolio/final-project-part-two)
+[Part III](https://raslan2000.github.io/My-Portfolio/final-project-part-three)
