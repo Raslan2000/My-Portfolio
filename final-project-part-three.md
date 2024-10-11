@@ -55,6 +55,4 @@ Since my targeted audience would react to dashboards and reports better, I have 
 7. https://www-statista-com.us1.proxy.openathens.net/statistics/831185/revenues-of-the-largest-global-apparel-companies/
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Overall this was a fun project to work on. I have been wanting to do some analysis on fashion for a while, So this was a good chance for it. I, myself was able to learn a lot from this project not only in terms of visualizations, but user interviews and the topic itself. I am very grateful for this opportunity to explore this topic and take you along with me on this adventure!
