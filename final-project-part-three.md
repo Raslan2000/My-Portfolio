@@ -13,9 +13,18 @@ Based on the user research and my own intuiotion, here are are some of the chang
 4. Added more KPIs and other details so that it caters more to the intended audience
 
 ## The audience
-The target audience meant for this are influential people within the fashion industry and companies, people who can make can actual change. So ideally, this would be targeted to business leaders, policy makers within the fashion industry, Fashion Brand Executives and fashion designers.
+In this project for me, the target audience can be put under one umbrella: People influential in the fashion industry would include:
+
+1. Business Executives: People in charge of the business within the fashion industry and people who make decisions for the business
+2. Policy Makers: These are the people who frame the regulation and guidelines within a company
+3. Business Leaders: These include Executives, Strategists and Consultants within the company who make recommendations to the business
+4. Fashion Designers: Since some fashion designers also have a brand around them, they can incorporate some of these ideas into their designs
+
+These are the kind of people I am catering to because these are the people who are more likely to make and implement changes within the fashion industry. 
+
 Here is an example persona:
-![persona](Persona card.jpg)
+
+![persona](Persona%20card.jpg)
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
