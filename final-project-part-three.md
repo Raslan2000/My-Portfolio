@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://raslan2000.github.io/My-Portfolio/) | [visualizing debt](https://raslan2000.github.io/My-Portfolio/visualizing-government-debt) | [critique by design](https://raslan2000.github.io/My-Portfolio/critique-by-design) | [final project I](https://raslan2000.github.io/My-Portfolio/final-project-part-one) | [final project II](https://raslan2000.github.io/My-Portfolio/final-project-part-two) | [final project III](https://raslan2000.github.io/My-Portfolio/final-project-part-three) |
 
 # The final data story
 The narrative begins by detailing how the fashion industry is destroying the environment and how nothing has changed over time. Consumers are becoming more aware of this, and as a result, they are turning to more sustainable fashion options, increasing the revenue share of the sustainable apparel industry. 
