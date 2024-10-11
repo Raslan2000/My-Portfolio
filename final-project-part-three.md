@@ -14,6 +14,8 @@ Based on the user research and my own intuiotion, here are are some of the chang
 
 ## The audience
 The target audience meant for this are influential people within the fashion industry and companies, people who can make can actual change. So ideally, this would be targeted to business leaders, policy makers within the fashion industry, Fashion Brand Executives and fashion designers.
+Here is an example persona:
+![persona](Persona card.jpg)
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
