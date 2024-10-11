@@ -24,7 +24,7 @@ These are the kind of people I am catering to because these are the people who a
 
 Here is an example persona:
 
-![persona](Persona%20card.jpg)
+![persona](Persona%20card.png)
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
