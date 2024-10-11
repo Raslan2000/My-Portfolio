@@ -31,7 +31,7 @@ For the story, I decided to build dashboards on Tableau and write about the stor
 
 I also changed the moodboard to match more with the theme of sustainability, hence I chose the colors of green, white and black:
 
-![mood_board](Final_mood_baord.png)
+![mood_board](Final_Mood_baord.png)
 
 This moodboard was made using chatgpt
 
