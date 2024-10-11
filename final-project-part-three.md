@@ -11,6 +11,7 @@ Based on the user research and my own intuiotion, here are are some of the chang
 2. Made sure each graph was clearly labelled and the legends were clearly labelled, so that the audience can understand completely what’s going on
 3. Replaced the bubble chart from the 2nd visualization to a pie chart, show distinctly how much each segment covers
 4. Added more KPIs and other details so that it caters more to the intended audience
+5. Changed the moodbaord to match with the sustainability a bit more
 
 ## The audience
 In this project for me, the target audience can be put under one umbrella: People influential in the fashion industry would include:
