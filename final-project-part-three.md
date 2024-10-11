@@ -38,6 +38,7 @@ This moodboard was made using chatgpt
 The images chosen for the background on each page is meant to match with the topic of each page while still maintaining the moodboard. 
 
 I have also made sure that all pages are left-aligned to reduce eye travel for users when going from one page to another.
+Since my targeted audience would react to dashboards and reports better, I have tried to maintain that sort of format with the shorthand. Which is also why I don’t have any callout statistics and thought they would be better on the dashboard.
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
