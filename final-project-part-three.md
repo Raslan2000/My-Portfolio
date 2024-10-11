@@ -1,9 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+The narrative begins by detailing how the fashion industry is destroying the environment and how nothing has changed over time. Consumers are becoming more aware of this, and as a result, they are turning to more sustainable fashion options, increasing the revenue share of the sustainable apparel industry. 
 
-Text here!
+Phillips-Van Heusen (PVH), a corporation that has lately begun to focus on sustainability, is financially profitable and has strong brand awareness. This demonstrates that firms have nothing to lose by transitioning to sustainability.
+
+To summarize, the future of fashion lies in sustainability.
 
 # Changes made since Part II
 Based on the user research and my own intuiotion, here are are some of the changes I made:
