@@ -6,6 +6,8 @@ The narrative begins by detailing how the fashion industry is destroying the env
 Phillips-Van Heusen (PVH), a corporation that has lately begun to focus on sustainability, is financially profitable and has strong brand awareness. This demonstrates that firms have nothing to lose by transitioning to sustainability.
 
 To summarize, the future of fashion lies in sustainability.
+[Here is my story](https://preview.shorthand.com/N9WCBe9a7RNGgwsm).
+
 
 # Changes made since Part II
 Based on the user research and my own intuiotion, here are are some of the changes I made:
