@@ -27,9 +27,17 @@ Here is an example persona:
 
 ![persona](Persona%20card.png)
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+For the story, I decided to build dashboards on Tableau and write about the story on Shorthand. The reason I chose dashboard is because the targeted audience would react to dashboards better. I could have made the whole story on dashboard but since there were a lot of data sources to work with. Hence I made a dashboard and built the story on shorthand. 
 
-Text here!
+I also changed the moodboard to match more with the theme of sustainability, hence I chose the colors of green, white and black:
+
+[mood_board](A%20mood%20board.webp)
+
+This moodboard was made using chatgpt
+
+The images chosen for the background on each page is meant to match with the topic of each page while still maintaining the moodboard. 
+
+I have also made sure that all pages are left-aligned to reduce eye travel for users when going from one page to another.
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
